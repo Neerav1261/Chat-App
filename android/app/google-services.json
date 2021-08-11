@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150119868860",
+    "project_id": "chat-app-4905c",
+    "storage_bucket": "chat-app-4905c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150119868860:android:9af72391f394c0e16523b9",
+        "android_client_info": {
+          "package_name": "com.neerav.chat.app.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150119868860-1mr1585ipaf72s3lpnd4tv45fdvu7tli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjF4zzToNHJyg6SqMW2-CHAhprykMvagE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150119868860-1mr1585ipaf72s3lpnd4tv45fdvu7tli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
